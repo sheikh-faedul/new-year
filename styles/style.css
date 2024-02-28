@@ -1,0 +1,35 @@
+   header{
+    background-image: url('banner.png'); 
+   }
+ .banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.banner-title{
+     text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+/* header style finish */
+.discount{
+    text-align: center;
+    margin-top: 10px;
+}
+.discount-offer{
+    color: red;
+}
+/* discount part finish */
+.night-party{
+    background-image: url('Vectorrr.png');
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+ 
+.gift-title{
+    color: red;
+}
