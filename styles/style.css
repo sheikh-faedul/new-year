@@ -33,3 +33,28 @@
 .gift-title{
     color: red;
 }
+.gift-pic-1{
+    display: flex;
+    gap: 3px;
+}
+.gift-pic-2{
+    display: flex;
+    gap: 3px;
+}
+/* gift-pic part finish */
+
+/* footer part start */
+footer{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 20px;
+}
+.footer-1{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
